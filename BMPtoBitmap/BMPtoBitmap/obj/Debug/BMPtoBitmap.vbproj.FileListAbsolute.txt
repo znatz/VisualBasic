@@ -1,0 +1,10 @@
+C:\Users\Z\PGround\VisualBasic\BMPtoBitmap\BMPtoBitmap\bin\Debug\BMPtoBitmap.exe.config
+C:\Users\Z\PGround\VisualBasic\BMPtoBitmap\BMPtoBitmap\bin\Debug\BMPtoBitmap.exe
+C:\Users\Z\PGround\VisualBasic\BMPtoBitmap\BMPtoBitmap\bin\Debug\BMPtoBitmap.pdb
+C:\Users\Z\PGround\VisualBasic\BMPtoBitmap\BMPtoBitmap\bin\Debug\BMPtoBitmap.xml
+C:\Users\Z\PGround\VisualBasic\BMPtoBitmap\BMPtoBitmap\obj\Debug\BMPtoBitmap.vbprojResolveAssemblyReference.cache
+C:\Users\Z\PGround\VisualBasic\BMPtoBitmap\BMPtoBitmap\obj\Debug\BMPtoBitmap.Resources.resources
+C:\Users\Z\PGround\VisualBasic\BMPtoBitmap\BMPtoBitmap\obj\Debug\BMPtoBitmap.vbproj.GenerateResource.Cache
+C:\Users\Z\PGround\VisualBasic\BMPtoBitmap\BMPtoBitmap\obj\Debug\BMPtoBitmap.exe
+C:\Users\Z\PGround\VisualBasic\BMPtoBitmap\BMPtoBitmap\obj\Debug\BMPtoBitmap.xml
+C:\Users\Z\PGround\VisualBasic\BMPtoBitmap\BMPtoBitmap\obj\Debug\BMPtoBitmap.pdb
