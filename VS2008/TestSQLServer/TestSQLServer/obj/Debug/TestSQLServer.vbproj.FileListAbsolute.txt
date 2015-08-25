@@ -1,0 +1,11 @@
+C:\Users\Z\PGround\VisualBasic\VS2008\TestSQLServer\TestSQLServer\bin\Debug\TestSQLServer.exe
+C:\Users\Z\PGround\VisualBasic\VS2008\TestSQLServer\TestSQLServer\bin\Debug\TestSQLServer.pdb
+C:\Users\Z\PGround\VisualBasic\VS2008\TestSQLServer\TestSQLServer\bin\Debug\TestSQLServer.xml
+C:\Users\Z\PGround\VisualBasic\VS2008\TestSQLServer\TestSQLServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Z\PGround\VisualBasic\VS2008\TestSQLServer\TestSQLServer\obj\Debug\TestSQLServer.Form1.resources
+C:\Users\Z\PGround\VisualBasic\VS2008\TestSQLServer\TestSQLServer\obj\Debug\TestSQLServer.Resources.resources
+C:\Users\Z\PGround\VisualBasic\VS2008\TestSQLServer\TestSQLServer\obj\Debug\TestSQLServer.vbproj.GenerateResource.Cache
+C:\Users\Z\PGround\VisualBasic\VS2008\TestSQLServer\TestSQLServer\obj\Debug\TestSQLServer.exe
+C:\Users\Z\PGround\VisualBasic\VS2008\TestSQLServer\TestSQLServer\obj\Debug\TestSQLServer.xml
+C:\Users\Z\PGround\VisualBasic\VS2008\TestSQLServer\TestSQLServer\obj\Debug\TestSQLServer.pdb
+C:\Users\Z\PGround\VisualBasic\VS2008\TestSQLServer\TestSQLServer\obj\Debug\TestSQLServer.Form2.resources
