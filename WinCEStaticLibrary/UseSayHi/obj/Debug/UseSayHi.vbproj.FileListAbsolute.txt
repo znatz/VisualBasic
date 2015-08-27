@@ -1,0 +1,13 @@
+C:\Users\Z\PGround\VisualBasic\WinCEStaticLibrary\UseSayHi\bin\Debug\UseSayHi.exe
+C:\Users\Z\PGround\VisualBasic\WinCEStaticLibrary\UseSayHi\bin\Debug\UseSayHi.pdb
+C:\Users\Z\PGround\VisualBasic\WinCEStaticLibrary\UseSayHi\bin\Debug\UseSayHi.xml
+C:\Users\Z\PGround\VisualBasic\WinCEStaticLibrary\UseSayHi\bin\Debug\LibraryJustSayHi.dll
+C:\Users\Z\PGround\VisualBasic\WinCEStaticLibrary\UseSayHi\bin\Debug\LibraryJustSayHi.pdb
+C:\Users\Z\PGround\VisualBasic\WinCEStaticLibrary\UseSayHi\bin\Debug\LibraryJustSayHi.xml
+C:\Users\Z\PGround\VisualBasic\WinCEStaticLibrary\UseSayHi\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Z\PGround\VisualBasic\WinCEStaticLibrary\UseSayHi\obj\Debug\UseSayHi.Form1.resources
+C:\Users\Z\PGround\VisualBasic\WinCEStaticLibrary\UseSayHi\obj\Debug\UseSayHi.Resources.resources
+C:\Users\Z\PGround\VisualBasic\WinCEStaticLibrary\UseSayHi\obj\Debug\UseSayHi.vbproj.GenerateResource.Cache
+C:\Users\Z\PGround\VisualBasic\WinCEStaticLibrary\UseSayHi\obj\Debug\UseSayHi.exe
+C:\Users\Z\PGround\VisualBasic\WinCEStaticLibrary\UseSayHi\obj\Debug\UseSayHi.xml
+C:\Users\Z\PGround\VisualBasic\WinCEStaticLibrary\UseSayHi\obj\Debug\UseSayHi.pdb

@@ -29,6 +29,7 @@ Partial Class Form1
         Me.FirstToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
         Me.SayhiToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
         Me.TextBox2 = New System.Windows.Forms.TextBox
+        Me.Button3 = New System.Windows.Forms.Button
         Me.MenuStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -86,11 +87,21 @@ Partial Class Form1
         Me.TextBox2.Size = New System.Drawing.Size(383, 20)
         Me.TextBox2.TabIndex = 4
         '
+        'Button3
+        '
+        Me.Button3.Location = New System.Drawing.Point(213, 218)
+        Me.Button3.Name = "Button3"
+        Me.Button3.Size = New System.Drawing.Size(160, 34)
+        Me.Button3.TabIndex = 5
+        Me.Button3.Text = "Button3"
+        Me.Button3.UseVisualStyleBackColor = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(741, 261)
+        Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.TextBox2)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.TextBox1)
@@ -112,5 +123,6 @@ Partial Class Form1
     Friend WithEvents FirstToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents SayhiToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents TextBox2 As System.Windows.Forms.TextBox
+    Friend WithEvents Button3 As System.Windows.Forms.Button
 
 End Class

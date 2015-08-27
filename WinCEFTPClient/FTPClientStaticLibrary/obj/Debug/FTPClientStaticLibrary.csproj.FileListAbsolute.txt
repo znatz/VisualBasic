@@ -1,0 +1,5 @@
+C:\Users\Z\PGround\VisualBasic\WinCEFTPClient\FTPClientStaticLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Z\PGround\VisualBasic\WinCEFTPClient\FTPClientStaticLibrary\bin\Debug\FTPClientStaticLibrary.dll
+C:\Users\Z\PGround\VisualBasic\WinCEFTPClient\FTPClientStaticLibrary\bin\Debug\FTPClientStaticLibrary.pdb
+C:\Users\Z\PGround\VisualBasic\WinCEFTPClient\FTPClientStaticLibrary\obj\Debug\FTPClientStaticLibrary.dll
+C:\Users\Z\PGround\VisualBasic\WinCEFTPClient\FTPClientStaticLibrary\obj\Debug\FTPClientStaticLibrary.pdb
