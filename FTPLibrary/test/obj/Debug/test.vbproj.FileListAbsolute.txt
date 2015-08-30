@@ -1,0 +1,10 @@
+C:\Users\Z\PGround\VisualBasic\FTPLibrary\test\bin\Debug\test.exe
+C:\Users\Z\PGround\VisualBasic\FTPLibrary\test\bin\Debug\test.pdb
+C:\Users\Z\PGround\VisualBasic\FTPLibrary\test\bin\Debug\test.xml
+C:\Users\Z\PGround\VisualBasic\FTPLibrary\test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Z\PGround\VisualBasic\FTPLibrary\test\obj\Debug\test.Form1.resources
+C:\Users\Z\PGround\VisualBasic\FTPLibrary\test\obj\Debug\test.Resources.resources
+C:\Users\Z\PGround\VisualBasic\FTPLibrary\test\obj\Debug\test.vbproj.GenerateResource.Cache
+C:\Users\Z\PGround\VisualBasic\FTPLibrary\test\obj\Debug\test.exe
+C:\Users\Z\PGround\VisualBasic\FTPLibrary\test\obj\Debug\test.xml
+C:\Users\Z\PGround\VisualBasic\FTPLibrary\test\obj\Debug\test.pdb

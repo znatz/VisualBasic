@@ -1,0 +1,12 @@
+C:\Users\Z\PGround\VisualBasic\WinCEFTPClient\FTPClient\bin\Debug\FTPClient.exe
+C:\Users\Z\PGround\VisualBasic\WinCEFTPClient\FTPClient\bin\Debug\FTPClient.pdb
+C:\Users\Z\PGround\VisualBasic\WinCEFTPClient\FTPClient\bin\Debug\FTPClient.xml
+C:\Users\Z\PGround\VisualBasic\WinCEFTPClient\FTPClient\bin\Debug\FTPClientStaticLibrary.dll
+C:\Users\Z\PGround\VisualBasic\WinCEFTPClient\FTPClient\bin\Debug\FTPClientStaticLibrary.pdb
+C:\Users\Z\PGround\VisualBasic\WinCEFTPClient\FTPClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Z\PGround\VisualBasic\WinCEFTPClient\FTPClient\obj\Debug\FTPClient.Form1.resources
+C:\Users\Z\PGround\VisualBasic\WinCEFTPClient\FTPClient\obj\Debug\FTPClient.Resources.resources
+C:\Users\Z\PGround\VisualBasic\WinCEFTPClient\FTPClient\obj\Debug\FTPClient.vbproj.GenerateResource.Cache
+C:\Users\Z\PGround\VisualBasic\WinCEFTPClient\FTPClient\obj\Debug\FTPClient.exe
+C:\Users\Z\PGround\VisualBasic\WinCEFTPClient\FTPClient\obj\Debug\FTPClient.xml
+C:\Users\Z\PGround\VisualBasic\WinCEFTPClient\FTPClient\obj\Debug\FTPClient.pdb

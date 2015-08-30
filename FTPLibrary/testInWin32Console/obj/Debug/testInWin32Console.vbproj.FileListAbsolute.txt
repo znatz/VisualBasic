@@ -1,0 +1,9 @@
+C:\Users\Z\PGround\VisualBasic\FTPLibrary\testInWin32Console\bin\Debug\testInWin32Console.exe
+C:\Users\Z\PGround\VisualBasic\FTPLibrary\testInWin32Console\bin\Debug\testInWin32Console.pdb
+C:\Users\Z\PGround\VisualBasic\FTPLibrary\testInWin32Console\bin\Debug\testInWin32Console.xml
+C:\Users\Z\PGround\VisualBasic\FTPLibrary\testInWin32Console\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Z\PGround\VisualBasic\FTPLibrary\testInWin32Console\obj\Debug\testInWin32Console.Resources.resources
+C:\Users\Z\PGround\VisualBasic\FTPLibrary\testInWin32Console\obj\Debug\testInWin32Console.vbproj.GenerateResource.Cache
+C:\Users\Z\PGround\VisualBasic\FTPLibrary\testInWin32Console\obj\Debug\testInWin32Console.exe
+C:\Users\Z\PGround\VisualBasic\FTPLibrary\testInWin32Console\obj\Debug\testInWin32Console.xml
+C:\Users\Z\PGround\VisualBasic\FTPLibrary\testInWin32Console\obj\Debug\testInWin32Console.pdb
